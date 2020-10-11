@@ -9,7 +9,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~10.0.3",
     "@angular/common": "~10.0.3",
@@ -21,8 +20,8 @@
     "@angular/router": "~10.0.3",
     "@ionic/angular": "^5.3.5",
     "@sebgroup/bootstrap": "^5.3.1",
-    "angular-components": "file:angular-components-0.0.0.tgz",
-    "raw-components": "file:raw-components-0.0.1.tgz",
+    "raw-angular-components": "latest",
+    "raw-components": "latest",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.2",
     "zone.js": "~0.10.3"
