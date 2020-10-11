@@ -19,8 +19,12 @@
     "@angular/platform-browser": "~10.0.3",
     "@angular/platform-browser-dynamic": "~10.0.3",
     "@angular/router": "~10.0.3",
+    "@ionic/angular": "^5.3.5",
+    "@sebgroup/bootstrap": "^5.3.1",
+    "angular-components": "file:angular-components-0.0.0.tgz",
+    "raw-components": "file:raw-components-0.0.1.tgz",
     "rxjs": "~6.5.5",
-    "tslib": "^2.0.0",
+    "tslib": "^2.0.2",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
